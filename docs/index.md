@@ -4,4 +4,6 @@ nav_order: 1
 title: Home
 permalink: /
 ---
-homepage
+## This is a blog on machine learning.
+
+### Please use the left navigation panel to explore.
